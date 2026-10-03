@@ -1,0 +1,2 @@
+* 6149f8e (HEAD -> main, origin/main, origin/HEAD) MP-1: mi nombre en el estado de cuenta
+* 97adccd MP-0: la cuenta bancaria
