@@ -30,3 +30,8 @@
 4. ¿Por qué en un equipo nadie hace cambios directamente en `main`?
 
    Para proteger la rama principal de errores, código incompleto o fallos en producción. Trabajar en ramas permite revisar, probar y discutir el código mediante Pull Requests antes de integrarlo de forma segura a `main`.
+
+## Progress & Certification 
+- **OCP Oracle Certified Professional Java SE 17 Developer (Exam 1Z0-829)**
+  - Completed Chapter 3: Practice questions and core conceptual review.
+  - Completed Chapter 4: Practice questions with step-by-step dry runs on Core APIs (String, StringBuilder, Arrays, and `java.time`).
